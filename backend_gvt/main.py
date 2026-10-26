@@ -42,11 +42,22 @@ allowed_origins = [
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=allowed_origins,
+    allow_origins=[
+        "https://gvt-inf-f-z3l9-l5rle93yi-owaisimam3542s-projects.vercel.app",
+        "http://localhost:5173",
+    ],
     allow_credentials=False,
     allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["*"],
 )
+
+# app.add_middleware(
+#     CORSMiddleware,
+#     allow_origins=allowed_origins,
+#     allow_credentials=False,
+#     allow_methods=["GET", "POST", "OPTIONS"],
+#     allow_headers=["*"],
+# )
 # app.add_middleware(
 #     CORSMiddleware,
 #     allow_origins=[
