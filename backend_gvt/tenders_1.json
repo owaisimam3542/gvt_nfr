@@ -1,0 +1,2046 @@
+[
+  {
+    "tender_id": "GEM/2026/B/8150254",
+    "title": "Aadhaar Enabled Biometric Attendance System (AEBAS).",
+    "organization": "National Informatics Centre",
+    "start_date": "13-Oct-26",
+    "submission_deadline": "02-Nov-26",
+    "submission_deadline_iso": "2026-11-02T23:59:59+05:30",
+    "status": "Open",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "3",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023256",
+    "source_page_url": "https://www.nic.gov.in/notice-category/tenders/",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/10023256"
+      }
+    ],
+    "collected_at": "2026-10-26T19:54:59.966992+05:30"
+  },
+  {
+    "tender_id": "GEM/2026/B/8169283",
+    "title": "High End Laptop - Notebook (Q2)",
+    "organization": "NICSI",
+    "start_date": "23-10-2026",
+    "submission_deadline": "02-11-2026 6:00 PM",
+    "submission_deadline_iso": "2026-11-02T18:00:00+05:30",
+    "status": "Open",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": null,
+    "source_name": "NICSI GeM Bids",
+    "source_url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F8169283#tab1",
+    "source_page_url": "https://nicsi.nic.in/nicsi/nicsi-gem-bids/",
+    "links": [
+      {
+        "text": "Open on GeM BidPlus",
+        "url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F8169283#tab1"
+      },
+      {
+        "text": "View PDF",
+        "url": "https://nicsi.nic.in/nicsi/pdfs/gem-bids/23102026/GeM-Bidding-10044734.pdf"
+      }
+    ],
+    "collected_at": "2026-10-26T19:54:58.705897+05:30"
+  },
+  {
+    "tender_id": "GEM/2026/B/8158561",
+    "title": "Online UPS (>10 KVA).",
+    "organization": "National Informatics Centre",
+    "start_date": "16-Oct-26",
+    "submission_deadline": "26-Oct-26",
+    "submission_deadline_iso": "2026-10-26T23:59:59+05:30",
+    "status": "Open",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "8",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/10032570",
+    "source_page_url": "https://www.nic.gov.in/notice-category/tenders/",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/10032570"
+      }
+    ],
+    "collected_at": "2026-10-26T19:54:59.966742+05:30"
+  },
+  {
+    "tender_id": "GEM/2026/B/8101766",
+    "title": "Fingerprint Scanner Registered Device for Aadhaar Authentication.",
+    "organization": "National Informatics Centre",
+    "start_date": "30-Sep-26",
+    "submission_deadline": "26-Oct-26",
+    "submission_deadline_iso": "2026-10-26T23:59:59+05:30",
+    "status": "Open",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "7",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9967515",
+    "source_page_url": "https://www.nic.gov.in/notice-category/tenders/",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9967515"
+      }
+    ],
+    "collected_at": "2026-10-26T19:54:59.967213+05:30"
+  },
+  {
+    "tender_id": "GEM/2026/B/8154409",
+    "title": "Toner Cartridges / Ink Cartridges / Consumables for Printers (Q2) ( PAC Only )",
+    "organization": "NICSI",
+    "start_date": "16-10-2026",
+    "submission_deadline": "26-10-2026 6:00 PM Expiring Soon",
+    "submission_deadline_iso": "2026-10-26T18:00:00+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": null,
+    "source_name": "NICSI GeM Bids",
+    "source_url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F8154409#tab1",
+    "source_page_url": "https://nicsi.nic.in/nicsi/nicsi-gem-bids/",
+    "links": [
+      {
+        "text": "Open on GeM BidPlus",
+        "url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F8154409#tab1"
+      },
+      {
+        "text": "View PDF",
+        "url": "https://nicsi.nic.in/nicsi/pdfs/gem-bids/23102026/GeM-Bidding-10028016.pdf"
+      }
+    ],
+    "collected_at": "2026-10-26T19:54:58.706183+05:30"
+  },
+  {
+    "tender_id": "GEM/2026/B/7985535",
+    "title": "Cisco Bar Pro VC unit, Visual Display Unit 55 inch, Audio Speakerphone Equipment, SFP Modules, Cisco CP-8875-K9 Video IPPhone",
+    "organization": "NICSI",
+    "start_date": "05-10-2026",
+    "submission_deadline": "26-10-2026 6:00 PM Expiring Soon",
+    "submission_deadline_iso": "2026-10-26T18:00:00+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": null,
+    "source_name": "NICSI GeM Bids",
+    "source_url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F7985535#tab1",
+    "source_page_url": "https://nicsi.nic.in/nicsi/nicsi-gem-bids/",
+    "links": [
+      {
+        "text": "Open on GeM BidPlus",
+        "url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F7985535#tab1"
+      },
+      {
+        "text": "View PDF",
+        "url": "https://nicsi.nic.in/nicsi/pdfs/gem-bids/23102026/GeM-Bidding-9834472.pdf"
+      }
+    ],
+    "collected_at": "2026-10-26T19:54:58.706618+05:30"
+  },
+  {
+    "tender_id": "GEM/2026/B/8101410",
+    "title": "Seclore DRM",
+    "organization": "NICSI",
+    "start_date": "05-10-2026",
+    "submission_deadline": "26-10-2026 6:00 PM Expiring Soon",
+    "submission_deadline_iso": "2026-10-26T18:00:00+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": null,
+    "source_name": "NICSI GeM Bids",
+    "source_url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F8101410#tab1",
+    "source_page_url": "https://nicsi.nic.in/nicsi/nicsi-gem-bids/",
+    "links": [
+      {
+        "text": "Open on GeM BidPlus",
+        "url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F8101410#tab1"
+      },
+      {
+        "text": "View PDF",
+        "url": "https://nicsi.nic.in/nicsi/pdfs/gem-bids/23102026/GeM-Bidding-9967131.pdf"
+      }
+    ],
+    "collected_at": "2026-10-26T19:54:58.707008+05:30"
+  },
+  {
+    "tender_id": "GEM/2026/B/8118100",
+    "title": "Cloud-based video conferencing Services 2.0 - 1000; Yes; Yes; 500; All",
+    "organization": "NICSI",
+    "start_date": "16-10-2026",
+    "submission_deadline": "26-10-2026 12:00 PM Expiring Soon",
+    "submission_deadline_iso": "2026-10-26T12:00:00+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": null,
+    "source_name": "NICSI GeM Bids",
+    "source_url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F8118100#tab1",
+    "source_page_url": "https://nicsi.nic.in/nicsi/nicsi-gem-bids/",
+    "links": [
+      {
+        "text": "Open on GeM BidPlus",
+        "url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F8118100#tab1"
+      },
+      {
+        "text": "View PDF",
+        "url": "https://nicsi.nic.in/nicsi/pdfs/gem-bids/23102026/GeM-Bidding-9986578.pdf"
+      }
+    ],
+    "collected_at": "2026-10-26T19:54:58.706384+05:30"
+  },
+  {
+    "tender_id": "GEM/2026/B/8152799",
+    "title": "Hyper Converged Infrastructure for Data Center (V2) (Q2)",
+    "organization": "NICSI",
+    "start_date": "14-10-2026",
+    "submission_deadline": "24-10-2026 6:00 PM Expiring Soon",
+    "submission_deadline_iso": "2026-10-24T18:00:00+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": null,
+    "source_name": "NICSI GeM Bids",
+    "source_url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F8152799#tab1",
+    "source_page_url": "https://nicsi.nic.in/nicsi/nicsi-gem-bids/",
+    "links": [
+      {
+        "text": "Open on GeM BidPlus",
+        "url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F8152799#tab1"
+      },
+      {
+        "text": "View PDF",
+        "url": "https://nicsi.nic.in/nicsi/pdfs/gem-bids/23102026/GeM-Bidding-10026174.pdf"
+      }
+    ],
+    "collected_at": "2026-10-26T19:54:58.707266+05:30"
+  },
+  {
+    "tender_id": "GEM/2026/B/8135342",
+    "title": "Database Management System Software (V3) (Q2) ( PAC Only )",
+    "organization": "NICSI",
+    "start_date": "14-10-2026",
+    "submission_deadline": "24-10-2026 1:00 PM Expiring Soon",
+    "submission_deadline_iso": "2026-10-24T13:00:00+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": null,
+    "source_name": "NICSI GeM Bids",
+    "source_url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F8135342#tab1",
+    "source_page_url": "https://nicsi.nic.in/nicsi/nicsi-gem-bids/",
+    "links": [
+      {
+        "text": "Open on GeM BidPlus",
+        "url": "https://bidplus.gem.gov.in/advance-search?searchType=bid-search&text=GEM%2F2026%2FB%2F8135342#tab1"
+      },
+      {
+        "text": "View PDF",
+        "url": "https://nicsi.nic.in/nicsi/pdfs/gem-bids/23102026/GeM-Bidding-10005979.pdf"
+      }
+    ],
+    "collected_at": "2026-10-26T19:54:58.707510+05:30"
+  },
+  {
+    "tender_id": "GEM/2026/B/8130785",
+    "title": "Annual Maintenance Service of Data Center Assets.",
+    "organization": "National Informatics Centre",
+    "start_date": "09-Oct-26",
+    "submission_deadline": "19-Oct-26",
+    "submission_deadline_iso": "2026-10-19T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "10",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/10000793",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/10000793"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.772169+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/8090603",
+    "title": "Hiring of Consultants.",
+    "organization": "National Informatics Centre",
+    "start_date": "06-Oct-26",
+    "submission_deadline": "16-Oct-26",
+    "submission_deadline_iso": "2026-10-16T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9954918",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9954918"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.772400+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7994204",
+    "title": "Enterprise-grade automated web application scanning solution.",
+    "organization": "National Informatics Centre",
+    "start_date": "09-Sep-26",
+    "submission_deadline": "30-Sep-26",
+    "submission_deadline_iso": "2026-09-30T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9844220",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9844220"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.772616+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/8074189",
+    "title": "Annual Maintenance Service of Data Center Assets.",
+    "organization": "National Informatics Centre",
+    "start_date": "23-Sep-26",
+    "submission_deadline": "30-Sep-26",
+    "submission_deadline_iso": "2026-09-30T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9935971",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9935971"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.772840+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/8034326",
+    "title": "Hiring of Professionals for application development and maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "17-Sep-26",
+    "submission_deadline": "28-Sep-26",
+    "submission_deadline_iso": "2026-09-28T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "5",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9890354",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9890354"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.773047+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7955824",
+    "title": "Hiring of Professionals for application development and maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "08-Sep-26",
+    "submission_deadline": "18-Sep-26",
+    "submission_deadline_iso": "2026-09-18T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9800013",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9800013"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.773250+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7917840",
+    "title": "Redis Enterprises Software Licenses.",
+    "organization": "National Informatics Centre",
+    "start_date": "25-Aug-26",
+    "submission_deadline": "15-Sep-26",
+    "submission_deadline_iso": "2026-09-15T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "20",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9756325",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9756325"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.773453+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7958309",
+    "title": "Annual Maintenance Service of Data Center Assets.",
+    "organization": "National Informatics Centre",
+    "start_date": "03-Sep-26",
+    "submission_deadline": "14-Sep-26",
+    "submission_deadline_iso": "2026-09-14T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "4",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9802932",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9802932"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.773657+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7977893",
+    "title": "Hiring of Office Assistant/ Executive Assistant.",
+    "organization": "National Informatics Centre",
+    "start_date": "31-Aug-26",
+    "submission_deadline": "10-Sep-26",
+    "submission_deadline_iso": "2026-09-10T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "3",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9825767",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9825767"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.773860+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7923904",
+    "title": "Hiring of Professionals for application development and maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "25-Aug-26",
+    "submission_deadline": "04-Sep-26",
+    "submission_deadline_iso": "2026-09-04T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "74",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9763418",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9763418"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.774063+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7883706",
+    "title": "Hiring of Professionals for Cloud, Network & security-related roles.",
+    "organization": "National Informatics Centre",
+    "start_date": "10-Aug-26",
+    "submission_deadline": "20-Aug-26",
+    "submission_deadline_iso": "2026-08-20T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "57",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9717254",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9717254"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.774266+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7852918",
+    "title": "Hiring of Professionals for application development and maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "05-Aug-26",
+    "submission_deadline": "17-Aug-26",
+    "submission_deadline_iso": "2026-08-17T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "4",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9682222",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9682222"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.774470+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7832053",
+    "title": "Annual Maintenance Service of Hardware Security Module",
+    "organization": "National Informatics Centre",
+    "start_date": "29-Jul-26",
+    "submission_deadline": "08-Aug-26",
+    "submission_deadline_iso": "2026-08-08T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "4",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9658172",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9658172"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.774681+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7814169",
+    "title": "Hiring of Professionals for application development and maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "28-Jul-26",
+    "submission_deadline": "07-Aug-26",
+    "submission_deadline_iso": "2026-08-07T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "32",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9637939",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9637939"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.774892+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7750914",
+    "title": "Hiring of an Agency for IT Projects (Milestone basis).",
+    "organization": "National Informatics Centre",
+    "start_date": "07-Jul-26",
+    "submission_deadline": "28-Jul-26",
+    "submission_deadline_iso": "2026-07-28T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9566120",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9566120"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.775166+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7771889",
+    "title": "Annual Maintenance Service of Data Center Assets.",
+    "organization": "National Informatics Centre",
+    "start_date": "15-Jul-26",
+    "submission_deadline": "25-Jul-26",
+    "submission_deadline_iso": "2026-07-25T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "4",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9589544",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9589544"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.775464+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7730703",
+    "title": "Hiring of Professionals for application development and maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "07-Jul-26",
+    "submission_deadline": "17-Jul-26",
+    "submission_deadline_iso": "2026-07-17T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "4",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9542988",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9542988"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.775677+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7694586",
+    "title": "Hiring of a Management Consultant for media-related activities.",
+    "organization": "National Informatics Centre",
+    "start_date": "29-Jun-26",
+    "submission_deadline": "09-Jul-26",
+    "submission_deadline_iso": "2026-07-09T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9502142",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9502142"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.775880+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7540378",
+    "title": "Online UPS (>10 KVA) without Battery",
+    "organization": "National Informatics Centre",
+    "start_date": "18-Jun-26",
+    "submission_deadline": "29-Jun-26",
+    "submission_deadline_iso": "2026-06-29T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "2",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9329623",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9329623"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.776082+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7657939",
+    "title": "Hiring of professionals for cloud, network, and cyber security-related roles.",
+    "organization": "National Informatics Centre",
+    "start_date": "15-Jun-26",
+    "submission_deadline": "25-Jun-26",
+    "submission_deadline_iso": "2026-06-25T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "5",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9460928",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/1",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9460928"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:04.776288+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7587839",
+    "title": "Annual Maintenance Service of Data Center Assets.",
+    "organization": "National Informatics Centre",
+    "start_date": "03-Jun-26",
+    "submission_deadline": "13-Jun-26",
+    "submission_deadline_iso": "2026-06-13T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "4",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9382710",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9382710"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.289860+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7540920",
+    "title": "AMC of Networking Devices – Router Switches, Add-on Cards, Wi-Fi controller & Firewall, etc.",
+    "organization": "National Informatics Centre",
+    "start_date": "01-Jun-26",
+    "submission_deadline": "11-Jun-26",
+    "submission_deadline_iso": "2026-06-11T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "91",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9330203",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9330203"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.290097+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7445932",
+    "title": "Professional Large Format Display.",
+    "organization": "National Informatics Centre",
+    "start_date": "21-May-26",
+    "submission_deadline": "01-Jun-26",
+    "submission_deadline_iso": "2026-06-01T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "30",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9224817",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9224817"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.290307+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7530017",
+    "title": "Hiring of Professionals for Cloud, Network, Security, and Data Centre-related roles.",
+    "organization": "National Informatics Centre",
+    "start_date": "14-May-26",
+    "submission_deadline": "25-May-26",
+    "submission_deadline_iso": "2026-05-25T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "30",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9318410",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9318410"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.290530+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7470726",
+    "title": "170 Operating System Software",
+    "organization": "National Informatics Centre",
+    "start_date": "05-May-26",
+    "submission_deadline": "15-May-26",
+    "submission_deadline_iso": "2026-05-15T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "170",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9252265",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9252265"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.290732+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7446353",
+    "title": "AMC/CMC of Fire Detection, Fire Alarm, Fire Hydrant, and Sprinkler System.",
+    "organization": "National Informatics Centre",
+    "start_date": "22-Apr-26",
+    "submission_deadline": "07-May-26",
+    "submission_deadline_iso": "2026-05-07T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "12",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9225277",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9225277"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.290936+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7394669",
+    "title": "Annual Maintenance Service of Data Center Assets.",
+    "organization": "National Informatics Centre",
+    "start_date": "16-Apr-26",
+    "submission_deadline": "27-Apr-26",
+    "submission_deadline_iso": "2026-04-27T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "41",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9166617",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9166617"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.291140+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7421077",
+    "title": "Hiring of Professionals for application development and maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "13-Apr-26",
+    "submission_deadline": "23-Apr-26",
+    "submission_deadline_iso": "2026-04-23T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "2",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9197141",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9197141"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.291343+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7285516",
+    "title": "Hiring of Professionals for Application Development & Maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "16-Mar-26",
+    "submission_deadline": "26-Mar-26",
+    "submission_deadline_iso": "2026-03-26T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "5",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9038853",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9038853"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.291546+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7323430",
+    "title": "Professional Large Format Display",
+    "organization": "National Informatics Centre",
+    "start_date": "11-Mar-26",
+    "submission_deadline": "21-Mar-26",
+    "submission_deadline_iso": "2026-03-21T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "2",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/9082849",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9082849"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.291747+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7227765",
+    "title": "Hiring of Professionals for Application Development & Maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "25-Feb-26",
+    "submission_deadline": "07-Mar-26",
+    "submission_deadline_iso": "2026-03-07T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "14",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8973031",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8973031"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.291950+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7180075",
+    "title": "Custom Bid for Services – Selection of Managed Service Provider for setting up Cyber security solutions For National Data Centres",
+    "organization": "National Informatics Centre",
+    "start_date": "04-Feb-26",
+    "submission_deadline": "25-Feb-26",
+    "submission_deadline_iso": "2026-02-25T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8918902",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8918902"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.292244+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7118312",
+    "title": "Annual Maintenance Service of Data Center Assets.",
+    "organization": "National Informatics Centre",
+    "start_date": "04-Feb-26",
+    "submission_deadline": "19-Feb-26",
+    "submission_deadline_iso": "2026-02-19T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "83",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8847937",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8847937"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.292456+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7139866",
+    "title": "Video Conferencing Solution.",
+    "organization": "National Informatics Centre",
+    "start_date": "27-Jan-26",
+    "submission_deadline": "17-Feb-26",
+    "submission_deadline_iso": "2026-02-17T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "36",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8873058",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8873058"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.292660+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7137273",
+    "title": "Custom Bid for Services – Selection of Managed Service Provider for Setting up, Operating and Managing the Government Cyber Security Operations Centre (GSOC) for NIC",
+    "organization": "National Informatics Centre",
+    "start_date": "24-Jan-26",
+    "submission_deadline": "14-Feb-26",
+    "submission_deadline_iso": "2026-02-14T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8870108",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8870108"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.292880+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7109014",
+    "title": "Custom Bid for Services – Website Uptime Monitoring and Defacement Alerting Tool",
+    "organization": "National Informatics Centre",
+    "start_date": "19-Jan-26",
+    "submission_deadline": "09-Feb-26",
+    "submission_deadline_iso": "2026-02-09T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8837181",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8837181"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.293093+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/7055284",
+    "title": "Hiring of Professionals for Application Development and Maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "21-Jan-26",
+    "submission_deadline": "31-Jan-26",
+    "submission_deadline_iso": "2026-01-31T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "32",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8775726",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8775726"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.293302+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7080716",
+    "title": "Managed Services Provider (MSP) for Operation and Management of ICT Infrastructure at Govt. Offices Complex.",
+    "organization": "National Informatics Centre",
+    "start_date": "09-Jan-26",
+    "submission_deadline": "30-Jan-26",
+    "submission_deadline_iso": "2026-01-30T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8805121",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8805121"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.293515+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7112012",
+    "title": "Annual Maintenance Service of Data Center Assets.",
+    "organization": "National Informatics Centre",
+    "start_date": "19-Jan-26",
+    "submission_deadline": "29-Jan-26",
+    "submission_deadline_iso": "2026-01-29T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "2",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8840497",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8840497"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.293721+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2026/B/7063463",
+    "title": "50 Operating System Software (V3) (Q2)",
+    "organization": "National Informatics Centre",
+    "start_date": "12-Jan-26",
+    "submission_deadline": "22-Jan-26",
+    "submission_deadline_iso": "2026-01-22T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "50",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8785574",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/2",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8785574"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:02.293927+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/7001492",
+    "title": "Hiring of Professionals for Application Development & Maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "01-Jan-26",
+    "submission_deadline": "12-Jan-26",
+    "submission_deadline_iso": "2026-01-12T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "8",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8714130",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8714130"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.128663+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6940086",
+    "title": "Surveillance Camera System",
+    "organization": "National Informatics Centre",
+    "start_date": "08-Dec-25",
+    "submission_deadline": "29-Dec-25",
+    "submission_deadline_iso": "2025-12-29T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "2816",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8644257",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8644257"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.129152+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6991737",
+    "title": "Layer 2 & Layer 3 Access Switches, and Fiber Optic Patch Cords",
+    "organization": "National Informatics Centre",
+    "start_date": "12-Dec-25",
+    "submission_deadline": "26-Dec-25",
+    "submission_deadline_iso": "2025-12-26T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "4971",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8703231",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8703231"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.129359+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6874143",
+    "title": "Hiring of Professionals",
+    "organization": "National Informatics Centre",
+    "start_date": "15-Dec-25",
+    "submission_deadline": "25-Dec-25",
+    "submission_deadline_iso": "2025-12-25T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "8",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8569339",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8569339"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.129562+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6954458",
+    "title": "Annual Maintenance Service of Video Conferencing System",
+    "organization": "National Informatics Centre",
+    "start_date": "11-Dec-25",
+    "submission_deadline": "22-Dec-25",
+    "submission_deadline_iso": "2025-12-22T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "128",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8660848",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8660848"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.129833+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6931799",
+    "title": "Hiring of Professionals for Application Development & Maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "03-Dec-25",
+    "submission_deadline": "13-Dec-25",
+    "submission_deadline_iso": "2025-12-13T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "46",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8634847",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8634847"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.130037+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6950267",
+    "title": "Annual Maintenance Contract (AMC) of the Integrated Security and Surveillance System.",
+    "organization": "National Informatics Centre",
+    "start_date": "03-Dec-25",
+    "submission_deadline": "13-Dec-25",
+    "submission_deadline_iso": "2025-12-13T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8655975",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8655975"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.130252+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6886957",
+    "title": "All-in-One PC (V2) (Q2).",
+    "organization": "National Informatics Centre",
+    "start_date": "01-Dec-25",
+    "submission_deadline": "11-Dec-25",
+    "submission_deadline_iso": "2025-12-11T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "2657",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8583795",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8583795"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.130457+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6887606",
+    "title": "337 High-End Desktop Computers.",
+    "organization": "National Informatics Centre",
+    "start_date": "01-Dec-25",
+    "submission_deadline": "11-Dec-25",
+    "submission_deadline_iso": "2025-12-11T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "337",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8584542",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8584542"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.130660+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6840249",
+    "title": "Annual Maintenance Service of Data Center Assets.",
+    "organization": "National Informatics Centre",
+    "start_date": "24-Nov-25",
+    "submission_deadline": "04-Dec-25",
+    "submission_deadline_iso": "2025-12-04T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "3",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8530269",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8530269"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.130865+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6906264",
+    "title": "USB Type External Hard Disk Drive (V2) (Q3).",
+    "organization": "National Informatics Centre",
+    "start_date": "20-Nov-25",
+    "submission_deadline": "01-Dec-25",
+    "submission_deadline_iso": "2025-12-01T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "50",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8605833",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8605833"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.131067+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6860091",
+    "title": "58 Professional Large-Format Displays.",
+    "organization": "National Informatics Centre",
+    "start_date": "13-Nov-25",
+    "submission_deadline": "24-Nov-25",
+    "submission_deadline_iso": "2025-11-24T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "58",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8553115",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8553115"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.131267+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6876406",
+    "title": "60 High End Laptops – Notebook",
+    "organization": "National Informatics Centre",
+    "start_date": "11-Nov-25",
+    "submission_deadline": "21-Nov-25",
+    "submission_deadline_iso": "2025-11-21T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "60",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8571962",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8571962"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.131475+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6856626",
+    "title": "Servers (V2),Servers (V2)",
+    "organization": "National Informatics Centre",
+    "start_date": "07-Nov-25",
+    "submission_deadline": "17-Nov-25",
+    "submission_deadline_iso": "2025-11-17T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "4",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8549175",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8549175"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.131819+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6838552",
+    "title": "324 All-in-One PC",
+    "organization": "National Informatics Centre",
+    "start_date": "04-Nov-25",
+    "submission_deadline": "14-Nov-25",
+    "submission_deadline_iso": "2025-11-14T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "324",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8528334",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8528334"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.132073+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6814144",
+    "title": "Selection of MSP for supply installation implementation operations and maintenance of EDR and UEM solutions for 3 years.",
+    "organization": "National Informatics Centre",
+    "start_date": "22-Oct-25",
+    "submission_deadline": "12-Nov-25",
+    "submission_deadline_iso": "2025-11-12T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8500404",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8500404"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.132295+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6839451",
+    "title": "Manpower Outsourcing Services in Odisha.",
+    "organization": "National Informatics Centre",
+    "start_date": "30-Oct-25",
+    "submission_deadline": "10-Nov-25",
+    "submission_deadline_iso": "2025-11-10T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "11",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8529361",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8529361"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.132499+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6829026",
+    "title": "Annual Maintenance Service of Data Center Assets.",
+    "organization": "National Informatics Centre",
+    "start_date": "31-Oct-25",
+    "submission_deadline": "10-Nov-25",
+    "submission_deadline_iso": "2025-11-10T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "2",
+    "source_name": "NIC Archived Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8517485",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/3",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8517485"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:09.132708+05:30"
+  },
+  {
+    "tender_id": "GEM/2025/B/6645483",
+    "title": "High End Desktop Computer",
+    "organization": "National Informatics Centre",
+    "start_date": "11-Sep-25",
+    "submission_deadline": "22-Sep-25",
+    "submission_deadline_iso": "2025-09-22T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "96",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8308044",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8308044"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.764407+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6620792",
+    "title": "Hiring of 12 Professionals for Application Development and Maintenance",
+    "organization": "National Informatics Centre",
+    "start_date": "09-Sep-25",
+    "submission_deadline": "19-Sep-25",
+    "submission_deadline_iso": "2025-09-19T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "12",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8279761",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8279761"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.764643+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6641370",
+    "title": "Security Guards in Meghalaya.",
+    "organization": "National Informatics Centre",
+    "start_date": "04-Sep-25",
+    "submission_deadline": "16-Sep-25",
+    "submission_deadline_iso": "2025-09-16T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "9",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8303406",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8303406"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.764853+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6597226",
+    "title": "Online UPS (V2) (Q2).",
+    "organization": "National Informatics Centre",
+    "start_date": "03-Sep-25",
+    "submission_deadline": "13-Sep-25",
+    "submission_deadline_iso": "2025-09-13T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "8",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8252895",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8252895"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.765656+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6638138",
+    "title": "Videography and Photography Services.",
+    "organization": "National Informatics Centre",
+    "start_date": "03-Sep-25",
+    "submission_deadline": "13-Sep-25",
+    "submission_deadline_iso": "2025-09-13T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "10",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8299721",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8299721"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.765328+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6632694",
+    "title": "Bus Hiring Service on a short-term basis.",
+    "organization": "National Informatics Centre",
+    "start_date": "02-Sep-25",
+    "submission_deadline": "12-Sep-25",
+    "submission_deadline_iso": "2025-09-12T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "8",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8293524",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8293524"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.765864+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6619958",
+    "title": "Multifunction Machine MFM (V2) (Q2).",
+    "organization": "National Informatics Centre",
+    "start_date": "01-Sep-25",
+    "submission_deadline": "11-Sep-25",
+    "submission_deadline_iso": "2025-09-11T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "785",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8278803",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8278803"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.766067+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6600074",
+    "title": "Professionals for Application Development and Maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "29-Aug-25",
+    "submission_deadline": "08-Sep-25",
+    "submission_deadline_iso": "2025-09-08T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8278803",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8278803"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.766269+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6563641",
+    "title": "55-inch TV, Amplifier, Joints and Accessories, Pedestal Mount Kit, Video Wall Controller, Speaker and connecting cables.",
+    "organization": "National Informatics Centre",
+    "start_date": "18-Aug-25",
+    "submission_deadline": "08-Sep-25",
+    "submission_deadline_iso": "2025-09-08T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "1173",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8214677",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8214677"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.766488+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6562490",
+    "title": "Layer-3 Distribution Switch (Q2), Layer-2 Access Switch (V2) (Q2), Fiber Optic Patch Cord (Q3).",
+    "organization": "National Informatics Centre",
+    "start_date": "27-Aug-25",
+    "submission_deadline": "06-Sep-25",
+    "submission_deadline_iso": "2025-09-06T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "396",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8213411",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8213411"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.766696+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6548362",
+    "title": "Annual Maintenance Service of Data Center Assets.",
+    "organization": "National Informatics Centre",
+    "start_date": "13-Aug-25",
+    "submission_deadline": "05-Sep-25",
+    "submission_deadline_iso": "2025-09-05T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "122",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8197159",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8197159"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.766897+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6581651",
+    "title": "Online UPS (V2) (Q2).",
+    "organization": "National Informatics Centre",
+    "start_date": "25-Aug-25",
+    "submission_deadline": "04-Sep-25",
+    "submission_deadline_iso": "2025-09-04T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "4",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8235139",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8235139"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.767097+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6593204",
+    "title": "Hiring of Professionals for Application Development and Maintenance.",
+    "organization": "National Informatics Centre",
+    "start_date": "25-Aug-25",
+    "submission_deadline": "04-Sep-25",
+    "submission_deadline_iso": "2025-09-04T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "4",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8248322",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8248322"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.767304+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6540686",
+    "title": "Hiring of Professionals for Cloud, Network, and Security-related roles.",
+    "organization": "National Informatics Centre",
+    "start_date": "25-Aug-25",
+    "submission_deadline": "04-Sep-25",
+    "submission_deadline_iso": "2025-09-04T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "24",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8188662",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8188662"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.767513+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6553090",
+    "title": "High End Laptops – Notebook (Q2).",
+    "organization": "National Informatics Centre",
+    "start_date": "25-Aug-25",
+    "submission_deadline": "04-Sep-25",
+    "submission_deadline_iso": "2025-09-04T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "69",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8202488",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8202488"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.767718+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  },
+  {
+    "tender_id": "GEM/2025/B/6574024",
+    "title": "High-End Desktop Computers (Q2)",
+    "organization": "National Informatics Centre",
+    "start_date": "21-Aug-25",
+    "submission_deadline": "01-Sep-25",
+    "submission_deadline_iso": "2025-09-01T23:59:59+05:30",
+    "status": "Expired",
+    "estimated_value": null,
+    "eligibility_criteria": null,
+    "quantity": "9",
+    "source_name": "NIC Current Tenders",
+    "source_url": "https://bidplus.gem.gov.in/showbidDocument/8226253",
+    "source_page_url": "https://www.nic.gov.in/past-notices/tenders/page/5",
+    "links": [
+      {
+        "text": "Bid Document",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/8226253"
+      }
+    ],
+    "collected_at": "2026-10-26T19:55:03.767920+05:30",
+    "additional_sources": [
+      "NIC Archived Tenders"
+    ]
+  }
+]

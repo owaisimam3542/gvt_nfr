@@ -1,0 +1,20 @@
+[
+  {
+    "source": "NICSI GeM Bids",
+    "records_found": 7,
+    "pages_failed": 0,
+    "errors": []
+  },
+  {
+    "source": "NIC Current Tenders",
+    "records_found": 59,
+    "pages_failed": 0,
+    "errors": []
+  },
+  {
+    "source": "NIC Archived Tenders",
+    "records_found": 74,
+    "pages_failed": 0,
+    "errors": []
+  }
+]
